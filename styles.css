@@ -1,0 +1,593 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #225566;
+}
+
+.telainicial{
+    img{
+        width: 100%;
+    }
+    button{
+        float: left;
+        margin-left: 130px;
+        margin-top: -50px;
+        position: relative;
+        background-color: #00fdfd;
+        font-family: cursive;
+        border-radius: 5px;
+        border: 3px solid #225566;
+        width: 150px;
+        height: 30px;
+        cursor: pointer;
+
+        h5{
+            text-align: center;
+            position: relative;
+            margin-top: -8px;
+        }
+        
+    }
+}
+
+.menu{
+    width: 100%;
+    height: 35px;
+    background-color: #00fdfd;
+    margin-top: -3px;
+    
+
+    ins{
+        float: left;
+        margin-left: 95px;
+        font-family: cursive;
+        margin-top: 5px;
+        color: black;
+        
+    }
+
+}
+
+.meio{
+    img{
+    float: left;
+    margin-left: 10px;
+    width: 45%;
+    margin-top: 10px;
+    }
+
+    h1{
+        float: left;
+        color: #00fdfd;
+        margin-top: 20px;
+        margin-left: 750px;
+        font-size: 40px;
+        margin-top: -460px;
+        font-family: sans-serif;
+    }
+
+    p{
+        float: left;
+        color: floralwhite;
+        margin-top: 20px;
+        margin-left: 750px;
+        font-size: 20px;
+        margin-top: -400px;
+    }
+
+    ul{
+        float: left;
+        color: floralwhite;
+        margin-top: 20px;
+        margin-left: 750px;
+        font-size: 20px;
+        margin-top: -350px; 
+    }
+}
+
+.meioterror{
+    float: left;
+    margin-left: 50px;
+
+    img{
+        width: 200px;
+        height: 250px;
+        margin-left: 170px;
+        margin-top: 100px;
+    }
+
+}
+
+.meioaventura{
+    float: left;
+    margin-left: 50px;
+
+    img{
+        width: 200px;
+        height: 250px;
+        margin-left: 170px;
+        margin-top: 100px;
+    }
+}
+
+.meioacao{
+    float: left;
+    margin-left: 50px;
+
+    img{
+        width: 200px;
+        height: 250px;
+        margin-left: 170px;
+        margin-top: 100px;
+    }
+}
+
+.meioestrategia{
+    float: left;
+    margin-left: 50px;
+
+    img{
+        width: 200px;
+        height: 250px;
+        margin-left: 170px;
+        margin-top: 100px;
+    }
+}
+
+.meiomulti{
+    float: left;
+    margin-left: 50px;
+
+    img{
+        width: 200px;
+        height: 250px;
+        margin-left: 170px;
+        margin-top: 100px;
+    }
+}
+
+.meiosimulacao{
+    float: left;
+    margin-left: 50px;
+
+    img{
+        width: 200px;
+        height: 250px;
+        margin-left: 170px;
+        margin-top: 100px;
+    }
+}
+
+.meiofps{
+    float: left;
+    margin-left: 50px;
+
+    img{
+        width: 200px;
+        height: 250px;
+        margin-left: 170px;
+        margin-top: 100px;
+    }
+}
+
+.meiosobrev{
+    float: left;
+    margin-left: 50px;
+
+    img{
+        width: 200px;
+        height: 250px;
+        margin-left: 170px;
+        margin-top: 100px;
+    }
+}
+
+#jogoterror{
+    h2{
+        float: right;
+        margin-right: 570px;
+        font-size: 20px;
+        width: 450px;
+        margin-top: 50px;
+        color: floralwhite;
+    }
+
+    img{
+        width: 360px;
+    }
+
+    iframe{
+        width: 500px;
+        height: 300px;
+        float: right;
+        margin-top: -350px;
+    }
+}
+
+#jogo11terror{
+    h2{
+        float: right;
+        margin-right: 570px;
+        font-size: 20px;
+        width: 450px;
+        margin-top: 50px;
+        color: floralwhite;
+    }
+
+    img{
+        width: 450px;
+        height: 400px;
+    }
+
+    iframe{
+        width: 500px;
+        height: 300px;
+        float: right;
+        margin-top: -350px;
+    }
+}
+
+#jogoaventura{
+    h2{
+        float: right;
+        margin-right: 570px;
+        font-size: 20px;
+        width: 450px;
+        margin-top: 50px;
+        color: floralwhite;
+    }
+
+    img{
+        width: 360px;
+    }
+
+    iframe{
+        width: 500px;
+        height: 300px;
+        float: right;
+        margin-top: -350px;
+    }
+}
+
+#jogosimulacao{
+    h2{
+        float: right;
+        margin-right: 570px;
+        font-size: 20px;
+        width: 450px;
+        margin-top: 50px;
+        color: floralwhite;
+    }
+
+    img{
+        width: 360px;
+    }
+
+    iframe{
+        width: 500px;
+        height: 300px;
+        float: right;
+        margin-top: -350px;
+    }
+}
+
+#jogoacao{
+    h2{
+        float: right;
+        margin-right: 570px;
+        font-size: 20px;
+        width: 450px;
+        margin-top: 50px;
+        color: floralwhite;
+    }
+
+
+    img{
+        width: 360px;
+    }
+
+    iframe{
+        width: 500px;
+        height: 300px;
+        float: right;
+        margin-top: -350px;
+    }
+}
+
+#jogoestrategia{
+    h2{
+        float: right;
+        margin-right: 570px;
+        font-size: 20px;
+        width: 450px;
+        margin-top: 50px;
+        color: floralwhite;
+    }
+
+
+    img{
+        width: 360px;
+    }
+
+    iframe{
+        width: 500px;
+        height: 300px;
+        float: right;
+        margin-top: -350px;
+    }
+}
+
+#jogomulti{
+    h2{
+        float: right;
+        margin-right: 570px;
+        font-size: 20px;
+        width: 450px;
+        margin-top: 50px;
+        color: floralwhite;
+    }
+
+
+    img{
+        width: 360px;
+    }
+
+    iframe{
+        width: 500px;
+        height: 300px;
+        float: right;
+        margin-top: -350px;
+    }
+}
+
+#jogosobrev{
+    h2{
+        float: right;
+        margin-right: 570px;
+        font-size: 20px;
+        width: 450px;
+        margin-top: 50px;
+        color: floralwhite;
+    }
+
+
+    img{
+        width: 360px;
+    }
+
+    iframe{
+        width: 500px;
+        height: 300px;
+        float: right;
+        margin-top: -500px;
+    }
+}
+
+#jogofps{
+    h2{
+        float: right;
+        margin-right: 570px;
+        font-size: 20px;
+        width: 450px;
+        margin-top: 50px;
+        color: floralwhite;
+    }
+
+
+    img{
+        width: 360px;
+    }
+
+    iframe{
+        width: 500px;
+        height: 300px;
+        float: right;
+        margin-top: -350px;
+    }
+
+    h3{
+        float: left;
+        font-size: 15px;
+        color: floralwhite;
+        margin-top: -400px;
+        margin-left: 1000px;
+    }
+}
+
+#rodape{
+    height: 60px;
+    width: 99.5%;
+    float: left;
+    background-color: #00fdfd;
+    margin-top: 200px;
+
+    #escritarodape{
+        float: left;
+        margin-right: 5px;
+        margin-top: 5px;
+    }
+}
+
+#login {
+    font-family: sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #225566;
+    background-image: url('imgInicial/login.png'); /* Substitua 'sua-imagem.jpg' pelo caminho da sua imagem */
+
+    /* Controla como a imagem se comporta */
+    background-size: cover; /* Cobrirá todo o fundo, mantendo a proporção */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+    background-position: center center; /* Centraliza a imagem */
+    background-attachment: fixed; /* Mantém a imagem fixa enquanto a página rola (opcional) */
+}
+
+.container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px; /* Largura do container */
+    text-align: center;
+    position: relative;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #333; /* Cor do título */
+}
+
+.input-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555; /* Cor da label */
+}
+
+input[type="email"],
+input[type="password"] {
+    width: calc(100% - 12px);
+    padding: 10px;
+    border: 1px solid #ddd; /* Cor da borda dos inputs */
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: turquoise; /* Cor do botão */
+    color: black;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: aqua; /* Cor do botão ao passar o mouse */
+    color: black;
+}
+
+p {
+    margin-top: 15px;
+    color: #777; /* Cor do texto */
+}
+
+a {
+    color: #007bff; /* Cor do link */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; /* Sublinhado no link ao passar o mouse */
+}
+
+#cadastro {
+    font-family: sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #225566; /* Cor de fundo */
+}
+
+.container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px; /* Largura do container */
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #333; /* Cor do título */
+}
+
+.input-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555; /* Cor da label */
+}
+
+input[type="email"],
+input[type="password"] {
+    width: calc(100% - 12px);
+    padding: 10px;
+    border: 1px solid #ddd; /* Cor da borda dos inputs */
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: turquoise; /* Cor do botão */
+    color: black;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: aqua; /* Cor do botão ao passar o mouse */
+    color: black;
+}
+
+p {
+    margin-top: 15px;
+    color: #777; /* Cor do texto */
+}
+
+a {
+    color: #007bff; /* Cor do link */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; /* Sublinhado no link ao passar o mouse */
+}
+
+
+#rodape{
+    background-color: black;
+    border: 3px solid #00fdfd;
+
+    p{
+        color: floralwhite;
+        margin-left: 100px;
+    }
+
+    #contato{
+
+        p{
+             float: right;
+        margin-top: -10px;
+        margin-right: 200px;
+        }
+        
+        a{
+            float: right;
+        margin-top: -10px;
+        margin-right: -430px;
+        }
+        
+    }
+}
