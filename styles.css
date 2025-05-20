@@ -49,6 +49,22 @@ body{
         
     }
 
+    button{
+        float: right;
+        height: 35px;
+        background-color: #225566;
+        border-radius: 5px;
+        border: solid black;
+        margin-top: -3px;
+        width: 50px;
+        text-align: center;
+        color: floralwhite;
+        margin: 0; 
+        padding: 0;
+        transition: 0.3s;
+    }
+    
+
 }
 
 .meio{
