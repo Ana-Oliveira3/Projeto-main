@@ -52,16 +52,20 @@ body{
     button{
         float: right;
         height: 35px;
-        background-color: #225566;
+        background-color: floralwhite;
         border-radius: 5px;
         border: solid black;
         margin-top: -3px;
         width: 50px;
         text-align: center;
-        color: floralwhite;
+        color: black;
         margin: 0; 
         padding: 0;
         transition: 0.3s;
+    }
+    button:hover{
+        background-color: #225566;
+        color: floralwhite;
     }
     
 
@@ -77,7 +81,7 @@ body{
 
     h1{
         float: left;
-        color: #00fdfd;
+        color: floralwhite;
         margin-top: 20px;
         margin-left: 750px;
         font-size: 40px;
