@@ -418,16 +418,33 @@ body{
 }
 
 #rodape{
+    background-color: black;
+    border: 3px solid #00fdfd;
     height: 60px;
     width: 99.5%;
     float: left;
-    background-color: #00fdfd;
-    margin-top: 100px;
+    margin-top: 80px;
 
-    #escritarodape{
-        float: left;
-        margin-right: 5px;
-        margin-top: 5px;
+
+    p{
+        color: floralwhite;
+        margin-left: 100px;
+    }
+
+    #contato{
+
+        p{
+             float: right;
+        margin-top: -10px;
+        margin-right: 200px;
+        }
+        
+        a{
+            float: right;
+        margin-top: -10px;
+        margin-right: -430px;
+        }
+        
     }
 }
 
@@ -585,29 +602,3 @@ a:hover {
     text-decoration: underline; /* Sublinhado no link ao passar o mouse */
 }
 
-
-#rodape{
-    background-color: black;
-    border: 3px solid #00fdfd;
-
-    p{
-        color: floralwhite;
-        margin-left: 100px;
-    }
-
-    #contato{
-
-        p{
-             float: right;
-        margin-top: -10px;
-        margin-right: 200px;
-        }
-        
-        a{
-            float: right;
-        margin-top: -10px;
-        margin-right: -430px;
-        }
-        
-    }
-}
