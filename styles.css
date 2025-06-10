@@ -466,11 +466,12 @@ body{
 }
 
 .container {
-    background-color: #fff;
+    background-color: #00fdfd;
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 400px; /* Largura do container */
+    margin-top: 450px;
     text-align: center;
     position: relative;
 }
@@ -501,7 +502,9 @@ input[type="password"] {
 }
 
 button {
-    background-color: turquoise; /* Cor do botão */
+    background-color: aqua; /* Cor do botão */
+    width: 200px;
+    height: 50px;
     color: black;
     padding: 10px 15px;
     border: none;
@@ -511,7 +514,7 @@ button {
 }
 
 button:hover {
-    background-color: aqua; /* Cor do botão ao passar o mouse */
+    background-color: turquoise; /* Cor do botão ao passar o mouse */
     color: black;
 }
 
